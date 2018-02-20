@@ -1,0 +1,6 @@
+language: csharp
+solution: testrunner.sln
+script:
+  - xbuild /p:Configuration=Debug testrunner.sln
+  - mono --debug ./TestRunner/bin/Debug/TestRunner.exe ./TestRunner.Tests/bin/Debug/TestRunner.Tests.dll
+

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerchantsGuideToTheGalaxy", "MerchantsGuideToTheGalaxy\MerchantsGuideToTheGalaxy.csproj", "{B089DBA3-497B-4D3A-B839-76C7F6A514EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerchantsGuideToTheGalaxyTests", "MerchantsGuideToTheGalaxyTests\MerchantsGuideToTheGalaxyTests.csproj", "{B9C82A64-7F8C-4906-8DC3-D13C32B95B9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B089DBA3-497B-4D3A-B839-76C7F6A514EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B089DBA3-497B-4D3A-B839-76C7F6A514EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B089DBA3-497B-4D3A-B839-76C7F6A514EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B089DBA3-497B-4D3A-B839-76C7F6A514EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C82A64-7F8C-4906-8DC3-D13C32B95B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C82A64-7F8C-4906-8DC3-D13C32B95B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C82A64-7F8C-4906-8DC3-D13C32B95B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C82A64-7F8C-4906-8DC3-D13C32B95B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
